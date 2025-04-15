@@ -118,11 +118,13 @@ const experiences = [
     iconBg: "#383E56",
     date: "April 2024 - October2024",
     points: [
-      "Designed:and maintained React.js applications, ensuring cross-browser compatibility and accessibility",
-      "Implemented:Redux for state management, improving application scalability and maintainability",
-      "Integrated: RESTful APIs and GraphQL for dynamic data handling and user authentication",
-      " Managed: database interactions with PostgreSQL and MongoDB, optimizing queries for performance",
-      "Collaborated: in an Agile environment, contributing to CI/CD pipelines and DevOps practices",
+      "Developed: cross-browser compatible web interfaces using HTML5, CSS3, JavaScript, and Canvas.",
+      "Maintained:responsive UIs with smooth CSS animations and transitions aligned with creative storyboards.",
+      "Integrated: jQuery and AJAX for dynamic ad components and UI interactivity.",
+      "Implemented: accessibility and WCAG standards, boosting UX and engagement.",
+      "Exported: assets from Figma and collaborated on animated ad campaigns and multimedia interfaces",
+      "Used:MySQL and MongoDB for backend data handling",
+      "Managed: workflow in Git and collaborated remotely via Agile sprints and code reviews.",
     ],
   },
   {
@@ -132,10 +134,10 @@ const experiences = [
     iconBg: "#E6DEDD",
     date: "May 2022 - September 2022",
     points: [
-      "Designed modular and reusable front-end components using React.js, enhancing user experience with UI/UX optimizations",
-      "Implemented:RESTful APIs and optimized front-end performance with modern tools like Webpack and Babel",
-      "Developed: UI/UX for an e-commerce platform, improving user engagement and accessibility compliance",
-      "Collaborated with backend teams for seamless platform services integration, ensuring scalable architecture",
+      "Built modular and reusable frontend components in React.js and JavaScript.",
+      "Delivered:responsive and adaptive pages optimized for different devices and browser",
+      "Used: Apache server for testing and deployment, ensuring compatibility and performance.",
+      "Collaborated: with designers using Figma handoff, ensuring design-to-code accuracy.",
     ],
   },
   {
@@ -145,10 +147,10 @@ const experiences = [
     iconBg: "#383E56",
     date: "Oct 2021 - Dec 2021",
     points: [
-      " Engineered: dynamic UI components with React.js and JavaScript, enhancing user engagement through intuitive UX design",
-      "Worked: on backend APIs and database integration using SQL and JSON.",
-      "Productivity Boost: Highlighted creating a JavaScript automation script that improved productivity, demonstrating problem solving and innovation",
-      "Collaboration and Agile Practices: Mentioning participation in Agile Scrum ceremonies emphasizes teamwork and agile expirence ",
+      " Developed: interactive UI components and animations using HTML, CSS, and JavaScript.",
+      "Implemented: AJAX calls and handled backend data with MySQL and JSON.",
+      "Created: automation scripts and improved developer productivity.",
+      "Collaboration and Agile Practices: Mentioning participation in Agile Scrum ceremonies emphasizes teamwork and Agile experience,"
     ],
   },
 ];
