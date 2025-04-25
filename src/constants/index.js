@@ -16,6 +16,7 @@ import {
   docker,
   telus,
   download,
+  inventory,
   tripguide,
   threejs,
   link,
@@ -121,7 +122,7 @@ const experiences = [
       "Learn: to Monitored application and infrastructure logs to detect anomalies; collaborated on incident response reviews and reported findings using internal ticketing tools",
       "Built: secure and responsive UIs using React.js and Canvas API; followed accessibility (WCAG 2.1) and security best practices.",
       "Automated: deployments with GitHub Actions and participated in secure CI/CD pipeline design.",
-      "Worked: in Agile teams, participated in sprint ceremonies, incident reviews, and maintained technical documentation"
+      "Worked: in Agile teams, participated in sprint ceremonies, incident reviews, and maintained technical documentation",
     ],
   },
   {
@@ -134,7 +135,7 @@ const experiences = [
       " Created features with React.js and Node.js; followed principles of secure coding.",
       "Integrated: and maintained web services on Apache; documented API endpoints and logs for traceability.",
       "Created : dynamic UI components from Figma and deployed using Apache",
-      "Collaborated: across Agile teams, participated in sprint ceremonies, and contributed to feature planning and delivery"
+      "Collaborated: across Agile teams, participated in sprint ceremonies, and contributed to feature planning and delivery",
     ],
   },
   {
@@ -146,9 +147,9 @@ const experiences = [
     points: [
       " Developed: web applications using Node.js/Express.js in MVC architecture with OOP principles.",
       "Supported: code refactoring efforts to improve maintainability and resilience.",
-      "Worked: in Agile environment to enhance application performance and maintain scalability",       
-      "participated: in code reviews, unit testing, and threat modeling exer cises."
-   ],
+      "Worked: in Agile environment to enhance application performance and maintain scalability",
+      "participated: in code reviews, unit testing, and threat modeling exer cises.",
+    ],
   },
 ];
 
@@ -186,19 +187,19 @@ const projects = [
       " Built a role-based secure portal using .NET MVC and C#, with authentication via JWT. Deployed on AWS EC2 with S3 for encrypted file storage and Lambda for automated backups. Implemented access control and audit logging mechanisms for admin actions.",
     tags: [
       {
-        name: "react",
+        name: ".NET",
         color: "blue-text-gradient",
       },
       {
-        name: "firebase",
+        name: "MVC",
         color: "green-text-gradient",
       },
       {
-        name: "tailwind",
+        name: "C#",
         color: "pink-text-gradient",
       },
     ],
-    image: download,
+    image: inventorygit ,
     source_code_link: " ",
   },
   {
