@@ -20,18 +20,18 @@ import redux from "./tech/redux.png";
 import tailwind from "./tech/tailwind.png";
 import typescript from "./tech/typescript.png";
 import threejs from "./tech/threejs.svg";
-import inventory from "./tech/inventory.png"
 
 import meta from "./company/meta.png";
 import sparks from "./company/sparks.png";
 import telus from "./company/telus.png";
 import tech from "./company/tech.png";
+import inventory from "./company/inventory.png";
 
 import carrent from "./carrent.png";
 import jobit from "./jobit.png";
 import tripguide from "./tripguide.png";
 import link from "./link.png";
-import download from "./download.png"
+import download from "./download.png";
 export {
   telus,
   download,
@@ -63,5 +63,5 @@ export {
   jobit,
   tripguide,
   tech,
-  sparks
+  sparks,
 };
