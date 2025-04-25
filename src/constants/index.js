@@ -199,7 +199,7 @@ const projects = [
         color: "pink-text-gradient",
       },
     ],
-    image: inventorygit ,
+    image: inventory,
     source_code_link: " ",
   },
   {
