@@ -112,19 +112,16 @@ const technologies = [
 
 const experiences = [
   {
-    title: "Software Developer Trainee",
-    company_name: "Telus International",
+    title: "Software Engineer",
+    company_name: "TELUS Digital",
     icon: telus,
     iconBg: "#383E56",
-    date: "April 2024 - October2024",
+    date: "April 2024 - November 2024",
     points: [
-      "Developed: cross-browser compatible web interfaces using HTML5, CSS3, JavaScript, and Canvas.",
-      "Maintained:responsive UIs with smooth CSS animations and transitions aligned with creative storyboards.",
-      "Integrated: jQuery and AJAX for dynamic ad components and UI interactivity.",
-      "Implemented: accessibility and WCAG standards, boosting UX and engagement.",
-      "Exported: assets from Figma and collaborated on animated ad campaigns and multimedia interfaces",
-      "Used:MySQL and MongoDB for backend data handling",
-      "Managed: workflow in Git and collaborated remotely via Agile sprints and code reviews.",
+      "Learn: to Monitored application and infrastructure logs to detect anomalies; collaborated on incident response reviews and reported findings using internal ticketing tools",
+      "Built: secure and responsive UIs using React.js and Canvas API; followed accessibility (WCAG 2.1) and security best practices.",
+      "Automated: deployments with GitHub Actions and participated in secure CI/CD pipeline design.",
+      "Worked: in Agile teams, participated in sprint ceremonies, incident reviews, and maintained technical documentation"
     ],
   },
   {
@@ -134,10 +131,10 @@ const experiences = [
     iconBg: "#E6DEDD",
     date: "May 2022 - September 2022",
     points: [
-      "Built modular and reusable frontend components in React.js and JavaScript.",
-      "Delivered:responsive and adaptive pages optimized for different devices and browser",
-      "Used: Apache server for testing and deployment, ensuring compatibility and performance.",
-      "Collaborated: with designers using Figma handoff, ensuring design-to-code accuracy.",
+      " Created features with React.js and Node.js; followed principles of secure coding.",
+      "Integrated: and maintained web services on Apache; documented API endpoints and logs for traceability.",
+      "Created : dynamic UI components from Figma and deployed using Apache",
+      "Collaborated: across Agile teams, participated in sprint ceremonies, and contributed to feature planning and delivery"
     ],
   },
   {
@@ -147,11 +144,11 @@ const experiences = [
     iconBg: "#383E56",
     date: "Oct 2021 - Dec 2021",
     points: [
-      " Developed: interactive UI components and animations using HTML, CSS, and JavaScript.",
-      "Implemented: AJAX calls and handled backend data with MySQL and JSON.",
-      "Created: automation scripts and improved developer productivity.",
-      "Collaboration and Agile Practices: Mentioning participation in Agile Scrum ceremonies emphasizes teamwork and Agile experience,"
-    ],
+      " Developed: web applications using Node.js/Express.js in MVC architecture with OOP principles.",
+      "Supported: code refactoring efforts to improve maintainability and resilience.",
+      "Worked: in Agile environment to enhance application performance and maintain scalability",       
+      "participated: in code reviews, unit testing, and threat modeling exer cises."
+   ],
   },
 ];
 
@@ -184,6 +181,27 @@ const testimonials = [
 
 const projects = [
   {
+    name: "Inventory Management System:",
+    description:
+      " Built a role-based secure portal using .NET MVC and C#, with authentication via JWT. Deployed on AWS EC2 with S3 for encrypted file storage and Lambda for automated backups. Implemented access control and audit logging mechanisms for admin actions.",
+    tags: [
+      {
+        name: "react",
+        color: "blue-text-gradient",
+      },
+      {
+        name: "firebase",
+        color: "green-text-gradient",
+      },
+      {
+        name: "tailwind",
+        color: "pink-text-gradient",
+      },
+    ],
+    image: download,
+    source_code_link: " ",
+  },
+  {
     name: "Amazone Clone",
     description:
       "Web-based platform that allows users to search, buy, and sell their products from various providers, providing a convenient and efficient solution for getting anything under one hood.",
@@ -207,7 +225,7 @@ const projects = [
   {
     name: "Rentify",
     description:
-      "Developed an interactive interface which allows users to search the hotels according to their preferred destination, date and number of people.",
+      "Created a responsive, filterable map UI with React.js and Tailwind CSS.Followed WCAG 2.1 compliance and SEO best practices",
     tags: [
       {
         name: "react",
@@ -232,7 +250,7 @@ const projects = [
   {
     name: "NetConnect",
     description:
-      "Developed a job hunting and networking platform using Next.js, JavaScript, Firebase, and CSS, connections between individuals for career opportunities and professional events. ",
+      " Developed a social networking frontend using React, Firebase, and animation libraries. Implemented real time data sync and responsive, mobile-first UI.",
     tags: [
       {
         name: "nextjs",
