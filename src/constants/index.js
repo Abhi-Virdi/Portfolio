@@ -113,16 +113,17 @@ const technologies = [
 
 const experiences = [
   {
-    title: "Software Engineer",
+    title: "Frontend Developer",
     company_name: "TELUS Digital",
     icon: telus,
     iconBg: "#383E56",
-    date: "April 2024 - November 2024",
+    date: "April 2024 - January 2025",
     points: [
-      "Learn: to Monitored application and infrastructure logs to detect anomalies; collaborated on incident response reviews and reported findings using internal ticketing tools",
-      "Built: secure and responsive UIs using React.js and Canvas API; followed accessibility (WCAG 2.1) and security best practices.",
-      "Automated: deployments with GitHub Actions and participated in secure CI/CD pipeline design.",
-      "Worked: in Agile teams, participated in sprint ceremonies, incident reviews, and maintained technical documentation",
+      "Built:accessible, responsive UI components using React, TypeScript, and Tailwind CSS for a large-scale SaaS platform",
+      " Enhanced: frontend performance using Lighthouse audits and WCAG standards",
+      " Participated: in QA testing using Cypress and Jest in a TDD environment",
+      " Integrated: frontend with microservices and optimized API usage for scalable architecture",
+      " Participated: in Agile ceremonies and collaborated with DevOps on CI/CD deployment pipelines",
     ],
   },
   {
@@ -132,10 +133,10 @@ const experiences = [
     iconBg: "#E6DEDD",
     date: "May 2022 - September 2022",
     points: [
-      " Created features with React.js and Node.js; followed principles of secure coding.",
-      "Integrated: and maintained web services on Apache; documented API endpoints and logs for traceability.",
-      "Created : dynamic UI components from Figma and deployed using Apache",
-      "Collaborated: across Agile teams, participated in sprint ceremonies, and contributed to feature planning and delivery",
+      " Design and integrated RESTful APIs with React and Node.js, ensuring seamless client-server interaction",
+      "Contributed: to system design meetings to evaluate architecture decisions and software scalability",
+      "Worked: on secure access controls using JWT and middleware logic",
+      "Wrote: unit tests for frontend and backend modules using Jest and Postman",
     ],
   },
   {
@@ -145,9 +146,9 @@ const experiences = [
     iconBg: "#383E56",
     date: "Oct 2021 - Dec 2021",
     points: [
-      " Developed: web applications using Node.js/Express.js in MVC architecture with OOP principles.",
-      "Supported: code refactoring efforts to improve maintainability and resilience.",
-      "Worked: in Agile environment to enhance application performance and maintain scalability",
+      " Built: interactive UI components using React, achieved over 90% test coverage using TDD",
+      " Contributed:in UX analysis and QA cycles for product improvement",
+      " Implemented: secure frontend components and assisted in DevOps deployment script",
       "participated: in code reviews, unit testing, and threat modeling exer cises.",
     ],
   },
