@@ -130,7 +130,7 @@ const experiences = [
   {
     title: "Software Developer Trainee",
     company_name: "JRD Elevators",
-    icon: tech,
+    icon: jrd,
     iconBg: "#E6DEDD",
     date: "Dec 2022 - March 2023",
     points: [
