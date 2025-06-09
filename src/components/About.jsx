@@ -46,13 +46,11 @@ const About = () => {
         variants={fadeIn("", "", 0.1, 1)}
         className="mt-4 text-secondary text-[17px] max-w-3xl leading-[30px]"
       >
-        Aspiring Software Developer with a strong foundation in system design,
-        cloud computing, and full-stack development. Experienced in building and
-        scaling secure, accessible, and performant SaaS web applications using
-        JavaScript, Python, Java, React, and SQL. Passionate about system
-        architecture, distributed systems, DevOps, and cloud-native solutions
-        (AWS, Azure). Strong communicator and collaborative team player, seeking
-        to contribute to impactful civic technology
+        Software Developer with 2+ years of internship experience building
+        scalable backend and responsive React.js frontend applications. Skilled
+        in Python backend development, React frontend engineering, and shipping
+        production-quality code. Experienced in Agile teams, clean code
+        practices, CI/CD pipelines, and solving real-world problems.
       </motion.p>
 
       <div className="flex flex-wrap gap-10 mt-20">

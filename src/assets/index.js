@@ -25,6 +25,7 @@ import meta from "./company/meta.png";
 import sparks from "./company/sparks.png";
 import telus from "./company/telus.png";
 import tech from "./company/tech.png";
+import jrd from "./company/jrd.png";
 import inventory from "./company/inventory.png";
 
 import carrent from "./carrent.png";
@@ -37,6 +38,7 @@ export {
   download,
   logo,
   backend,
+  jrd,
   creator,
   link,
   mobile,
