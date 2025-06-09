@@ -118,7 +118,7 @@ const experiences = [
     company_name: "TELUS Digital",
     icon: telus,
     iconBg: "#383E56",
-    date: "April 2024 - January 2025",
+    date: "April 2024 - November 2024",
     points: [
       "Led: and managed project development with team of 4 engineers through the entire software development lifecycle, utilizing best practices to optimize code",
       " Developed : components via Docker and AWS EC2, improving speed by 25%",
