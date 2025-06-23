@@ -145,7 +145,7 @@ const experiences = [
     company_name: "Technocolab Software",
     icon: tech,
     iconBg: "#E6DEDD",
-    date: "May 2021 - September 2021",
+    date: "May 2022 - September 2022",
     points: [
       " Design and integrated RESTful APIs with React and Node.js, ensuring seamless client-server interaction",
       "Contributed: to system design meetings to evaluate architecture decisions and software scalability",
@@ -158,7 +158,7 @@ const experiences = [
     company_name: "Sparks Foundation",
     icon: sparks,
     iconBg: "#383E56",
-    date: "Oct 2020 - Dec 2020",
+    date: "Oct 2021 - Dec 2021",
     points: [
       " Built: interactive UI components using React, achieved over 90% test coverage using TDD",
       " Contributed:in UX analysis and QA cycles for product improvement",
